@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookFlightApp</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="from">سے</string>
+    <string name="to">کو</string>
+    <string name="book_now">ابھی بک کرو</string>
+    <string name="change_language">زبان تبدیل کریں</string>
+    <string name="you_have_booked">بھی بک کرو</string>
+</resources>

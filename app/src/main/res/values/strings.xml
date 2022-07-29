@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookFlightApp</string>
+    <string name="welcome">Welcome, Edona</string>
+    <string name="from">From</string>
+    <string name="to"> To </string>
+    <string name="book_now">Book now</string>
+    <string name="change_language">Change language</string>
+    <string name="you_have_booked">You have booked a flight from </string>
+</resources>

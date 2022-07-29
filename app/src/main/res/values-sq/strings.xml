@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookFlightApp</string>
+    <string name="welcome">Mirseerdhe, Edona</string>
+    <string name="from">Nga</string>
+    <string name="to">Në</string>
+    <string name="book_now">Rezervo</string>
+    <string name="change_language">Ndrysho gjuhën</string>
+    <string name="you_have_booked">Keni bere rezervim prej</string>
+</resources>
